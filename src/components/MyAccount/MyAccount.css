@@ -1,0 +1,26 @@
+.accountPageTitleText {
+    font-size: 3rem;
+    color: white;
+}
+
+.accountPageTitle {
+    margin-left: 20em;
+    margin-top: 10em;
+}
+
+.accountOrderTitle {
+    color: white;
+    padding: 5%;
+}
+
+.accountOrder {
+    width: 25%;
+    height: 16em;
+    background-color: blue;
+    border-radius: 20px;
+}
+
+.accountOrderDate {
+    font-size: 1.25rem;
+    opacity: 0.5;
+}

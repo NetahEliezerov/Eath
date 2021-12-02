@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Ad Haetzem",
+        "type": "Hamburger",
+        "colors": ["#B95F18", "#FDBE69"],
+        "reviews": [
+            {
+                "reviewer": "George",
+                "reviewDescription": "Lorem ipsum dolor sit amet",
+                "reviewType": "Good"
+            }
+        ],
+        "meals": [
+            {
+                "colors": ["#B95F18", "#FDBE69"],
+                "mealName": "Triple burger meal",
+                "including": ["Hamburger", "Fries", "CocaCola"],
+                "priceInEth": 0.007,
+                "mealImg": "adHaetzem/tripleBurgerMeal.png"
+            }
+        ],
+        "restaurantId": "89Na8KA1",
+        "thumbnailImg": "adHaetzem/adhaetzem.png",
+        "coverImg": "adHaetzem/adHaetzemCover.png",
+        "emoji": "🍔"
+    },
+    {
+        "name": "Pizza Hut",
+        "type": "Pizza",
+        "colors": ["#7B0304", "#A32110"],
+        "reviews": [
+            {
+                "reviewer": "George",
+                "reviewDescription": "Lorem ipsum dolor sit amet",
+                "reviewType": "Good"
+            }
+        ],
+        "meals": [
+            {
+                "colors": ["#7B0304", "#A32110"],
+                "mealName": "Just tasty",
+                "including": ["Paperoni", "Cheese", "Egg"],
+                "priceInEth": 0.003,
+                "mealImg": "pizzaHut/papperoni.png"
+            }
+        ],
+        "restaurantId": "as89BAS8ak",
+        "thumbnailImg": "pizzaHut/pizzahut.png",
+        "coverImg": "pizzaHut/cover.png",
+        "emoji": "🍕"
+    }
+]

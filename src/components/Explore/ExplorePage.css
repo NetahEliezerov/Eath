@@ -1,0 +1,48 @@
+.exploreCategoryName {
+    color: white;
+    font-size: 2.5rem;
+}
+
+.exploreCategory {
+    margin-left: 12.5em;
+    margin-top: 10em;
+}
+
+.restaurantExplore {
+    display: inline-block;
+    margin-left: 3em;
+    position: relative;
+    width: 40em;
+    height: 16em;
+    border-radius: 20px;
+}
+
+.restaurantExploreImg {
+    position: absolute;
+    width: 40em;
+    bottom: 0;
+    left: 0;
+}
+
+.restaurantExploreTitle {
+    display: inline-block;
+    margin-left: 1.5em;
+    padding-top: 0.5em;
+    color: white;
+}
+
+.restaurantExploreBtn {
+    display: inline-block;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    width: 12.5rem;
+    height: 3rem;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 1.1rem;
+    float: right;
+    margin-top: 4.5%;
+    margin-right: 1.5em;
+    cursor: pointer;
+}

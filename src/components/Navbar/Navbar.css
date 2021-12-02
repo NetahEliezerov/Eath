@@ -1,0 +1,73 @@
+.navbar {
+    display: block;
+    color: white;
+    width: 100vw;
+    height: 7vh;
+    margin: auto;
+}
+
+.headerNav {
+    font-family: 'Poppins';
+    display: inline-block;
+    padding: 0.5em 2em;
+    cursor: pointer;
+    color: white;
+}
+
+.headerBtnNav {
+    font-family: 'Poppins';
+    display: inline-block;
+    text-align: center;
+    border: none;
+    float: right;
+    border-radius: 10px;
+    width: 11em;
+    height: 3em;
+    margin: 2em;
+    cursor: pointer;
+    background-color: #486BE9;
+    color: white;
+    transition-duration: 200ms;
+}
+
+.headerBtnNav {
+    font-family: 'Poppins';
+    display: inline-block;
+    text-align: center;
+    border: none;
+    float: right;
+    border-radius: 10px;
+    width: 11em;
+    height: 3em;
+    margin: 2em;
+    cursor: pointer;
+    background-color: #486BE9;
+    color: white;
+    transition-duration: 200ms;
+}
+
+.headerBtnNav:hover {
+    background-color: white;
+    color: #486BE9;
+}
+
+.headerBtnNavBgBlur {
+    font-family: 'Poppins';
+    display: inline-block;
+    text-align: center;
+    float: right;
+    border-radius: 10px;
+    width: 11em;
+    height: 3em;
+    margin: 2em;
+    cursor: pointer;
+    background: rgba(10, 9, 8, 0.25);
+    backdrop-filter: blur(15px);
+    border: 1px solid black;
+    color: white;
+    transition-duration: 200ms;
+}
+
+.headerBtnNavBgBlur:hover {
+    background: rgba(255, 255, 255, 0.25);
+}

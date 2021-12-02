@@ -1,0 +1,48 @@
+.homepageTitle {
+    color: white;
+    font-size: 3rem;
+}
+
+.homepageTitleHeader {
+    margin: 15em 25em;
+}
+
+.goldBtn {
+    width: 25.5em;
+    height: 4em;
+    font-size: 1.35rem;
+    border: none;
+    border-radius: 20px;
+    background-color: #F48521;
+    color: white;
+    font-family: 'Poppins';
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.whiteConnectBtn {
+    width: 25.5em;
+    height: 4em;
+    font-size: 1rem;
+    border: none;
+    border-radius: 20px;
+    background-color: #F48521;
+    color: white;
+    font-family: 'Poppins';
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.blueConnectBtn {
+    width: 25.5em;
+    height: 4em;
+    font-size: 1rem;
+    border: none;
+    border-radius: 20px;
+    background-color: #1554f0;
+    color: white;
+    font-family: 'Poppins';
+    font-weight: 700;
+    cursor: pointer;
+    margin-top: 1em;
+}
